@@ -8,7 +8,7 @@ import productImage05 from "./../../assets/images/ProductImage/product05.webp"
 let ProductArray=[
     {
         img:productImage01,
-        title:"Golden Easy Spot Chair.",
+        title:"hello Easy Spot Chair.",
         category:"Chair",
         actualPrice:"250.00",
         discountedPrice:"",

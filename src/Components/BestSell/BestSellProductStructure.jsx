@@ -1,8 +1,9 @@
 import React from 'react';
 
 let BestSellProductStructure=(props)=> {
+
     return (
-        <div className="bestSellSingle">
+        <div className="bestSellSingle" >
             <img src={props.product.img} alt="" />
             <h6>{props.product.category}</h6>
             <h4>{props.product.title}</h4>
